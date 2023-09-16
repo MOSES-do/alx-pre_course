@@ -1,6 +1,10 @@
 #!/bin/bash
 <<<<<<< HEAD
-echoo "ALX School"
+<<<<<<< HEAD
+echo "ALX School"
 =======
-echoo "ALX School"
+echo "ALX School"
 >>>>>>> update_script
+=======
+echo "ALX School"
+>>>>>>> aad3e4e... My personal work
